@@ -13,4 +13,5 @@ https://joseph-s-foster.github.io/Horiseon/
 
 ## Screenshot
 
-![screenshot of webpage](./Develop/assets/images/screenshot.png)
+![screenshot of webpage](./assets/images/screenshot.png)
+
