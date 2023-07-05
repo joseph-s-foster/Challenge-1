@@ -7,6 +7,10 @@
 - Increased the functionality of the webpage.
 - Learned how to truncate html elements and css attritbues.
 
+## Link to site
+
+https://joseph-s-foster.github.io/Horiseon/
+
 ## Screenshot
 
 ![screenshot of webpage](./Develop/assets/images/screenshot.png)
